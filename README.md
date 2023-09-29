@@ -7,7 +7,7 @@ In this project, I utilize specific tools and technologies to achieve our goals 
 
 **1. 3 X [Hikvision 2MP WDR EXIR Turret Camera with 2.8mm Fixed Lens](https://www.bhphotovideo.com/c/product/1302494-REG/hikvision_ds_2ce56d7t_it3_2_8mm_ds_2ce56d7t_it3_outdoor_ir_turret.html):** These high-quality surveillance cameras are the backbone of our project. They provide clear and detailed video footage for analysis and automation.
 
-**2. Python Programming Language:** Python serves as our programming language of choice. Its versatility and extensive libraries make it ideal for building robust automation and computer vision solutions.
+**2. Python Programming Language:** Python is ideal for building robust automation and computer vision solutions.
 
 **3. OpenCV (Open Source Computer Vision Library):** OpenCV is a powerful open-source library that provides state of the art buildin functions for image and video processing. We leverage its features for tasks like real-time video analysis and object detection.
 
