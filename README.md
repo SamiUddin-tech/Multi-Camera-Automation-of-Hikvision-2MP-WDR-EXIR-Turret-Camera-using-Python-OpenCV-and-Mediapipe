@@ -9,7 +9,7 @@ In this project, I utilize specific tools and technologies to achieve our goals 
 
 **2. Python Programming Language:** Python serves as our programming language of choice. Its versatility and extensive libraries make it ideal for building robust automation and computer vision solutions.
 
-**3. OpenCV (Open Source Computer Vision Library):** OpenCV is a powerful open-source library that aids in image and video processing. We leverage its features for tasks like real-time video analysis and object detection.
+**3. OpenCV (Open Source Computer Vision Library):** OpenCV is a powerful open-source library that provides state of the art buildin functions for image and video processing. We leverage its features for tasks like real-time video analysis and object detection.
 
 **4. MediaPipe:** MediaPipe is a framework developed by Google that facilitates the implementation of various machine learning-based applications, including gesture recognition, face detection, and pose estimation. It 
 enhances our project's capabilities.
